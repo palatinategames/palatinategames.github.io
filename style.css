@@ -1,0 +1,70 @@
+@font-face {
+    font-family: visitor;
+    src: url(visitor.ttf);
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: gray;
+    font-family: visitor;
+    font-smooth: never;
+}
+
+.pingpong {
+    background-color:lightgray;
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+iframe {
+    justify-content: center;
+    color: black;
+}
+
+p {
+    font-family: visitor;
+    color: gray;
+    font-size: x-large;
+    white-space-collapse: preserve;
+}
+
+.about {
+    width: 640px;
+    height: 100px;
+    margin: auto;
+
+}
+
+div {
+    margin: auto;
+}
+
+.gametitle {
+    text-align: center;
+
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+a {
+    color: black;
+}
+
+ul {
+    font-family: visitor;
+    font-size: x-large;
+    list-style-type:none;
+    margin: 0;
+    padding: 5px;
+    text-transform: capitalize;
+    border: 1px solid black;
+}
